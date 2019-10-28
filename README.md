@@ -3,6 +3,7 @@ taskList JS Course
 
 
 using:-
-Local Storage
-Query Selector
-addEventListener
+
+  - Local Storage
+  - Query Selector
+  - AddEventListener
