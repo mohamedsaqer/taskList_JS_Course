@@ -6,7 +6,7 @@ it's a training project through JS Course
 UI built with HTML and CSS (Materialize)
 Functionality with JS
 
-Uploaded by GitHub Pages
+Deployed by GitHub Pages
 
 JS Topics:-
 
